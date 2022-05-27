@@ -2,7 +2,7 @@
 ### Bike sharing data analysis for NYC August 2019
 
 ## Overview
-The purpose of this analysis was to analye bike sharing data for August 2019 in order to find when, where and who is using the bike sharing service in NYC.
+The purpose of this analysis was to analyze bike sharing data for August 2019 in order to find when, where and who is using the bike sharing service in NYC.
 
 
 ## Results
