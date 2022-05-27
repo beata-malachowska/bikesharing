@@ -18,7 +18,7 @@ Most trips last 5 minutes, and majority rides are no longer than 20-40 minutes.
 In terms of gender, there is no much difference in the duration of the trip, however we can observe that men more oftenly rent the bikes than women. 
 [Trip duration by Gender](https://github.com/beata-malachowska/bikesharing/blob/main/images/Picture4.png)
 
-In working days (Mon-Fri) there are two peak of renting the bikes: betweeen 7-9am and 5-7pm) which suggests a lot o people use them for commute. Interestingly there were less renting on Wednesday. During weekends, there aren't clear peaaks and renting is spread rather evenly in time between 10am-8pm)
+In working days (Mon-Fri) there are two peak of renting the bikes: between 7-9am and 5-7pm which suggests a lot o people use them for commute. Interestingly there were less renting on Wednesday. During weekends, there aren't clear peaks and renting is spread rather evenly in time between 10am-8pm.
 [Heatmap of number of rides by weekdays and hours](https://github.com/beata-malachowska/bikesharing/blob/main/images/Picture5.png)
 
 There aren't many difference in renting pattern between male and female. 
